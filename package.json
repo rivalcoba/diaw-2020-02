@@ -1,0 +1,20 @@
+{
+  "name": "00-frontenddep",
+  "version": "0.0.0",
+  "description": "Codigo base para administrar paqueteria front end.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rivalcoba/diaw-2020-02.git"
+  },
+  "keywords": ["node","frontend"],
+  "author": "Ivan Rivalcoba <ivan.rivalcoba@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rivalcoba/diaw-2020-02/issues"
+  },
+  "homepage": "https://github.com/rivalcoba/diaw-2020-02#readme"
+}
