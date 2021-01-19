@@ -1,6 +1,7 @@
 import 'materialize-css/dist/js/materialize';
 /* global M */
-const initDropdown = () => {
+const init = () => {
+  // eslint-disable-next-line no-console
   document.addEventListener('DOMContentLoaded', () => {
     const elements = document.querySelectorAll('.dropdown-trigger');
     M.Dropdown.init(elements);
@@ -8,5 +9,5 @@ const initDropdown = () => {
 };
 
 export default {
-  initDropdown,
+  init,
 };
