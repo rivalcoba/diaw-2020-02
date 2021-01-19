@@ -1,2 +1,4 @@
 # Ignora Archivos de configuracion
 *.config.js
+# Ingnora archivos de distribucion
+dist
